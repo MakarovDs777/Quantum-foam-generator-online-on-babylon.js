@@ -1,8 +1,5 @@
 # Quantum-foam-generator-online-on-babylon.js
 
-
-# Quantum-foam-generator-online-on-babylon.js
-
 [Quantum foam (version 0 - lowpoly gradient) | Babylon.js Playground](https://playground.babylonjs.com/#UL5ONA#0)
 
 [Quantom foam (version1) | Babylon.js Playground](http://playground.babylonjs.com/#S4261X#0)
