@@ -22,7 +22,7 @@
 
 [Quantum foam (version 10 - Quantum foam using isurfaces XYZ coordinates and seed) | Babylon.js Playground](https://playground.babylonjs.com/#0NA2TA#2)
 
-[]()
+[Beer foam | Babylon.js Playground](https://playground.babylonjs.com/#DG5BKM#0)
 
 [Quantum foam (version 12 - Quantum foam with minimum and maximum auto-random values, and multiple scoreboards) | Babylon.js Playground](https://playground.babylonjs.com/#B905BP#0)
 
