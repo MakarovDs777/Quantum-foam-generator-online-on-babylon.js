@@ -68,7 +68,7 @@
 
 [Quantum foam (version 33 - Chudik Compression + Spacing Compression) | Babylon.js Playground](https://playground.babylonjs.com/#ITHGMO#0)
 
-[Quantum foam (version 34 - Geoids foam) | Babylon.js Playground](https://playground.babylonjs.com/#OWBK95)
+[Quantum foam (version 34 - Geoids foam) | Babylon.js Playground](https://playground.babylonjs.com/#OWBK95#1)
 
 
 
