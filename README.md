@@ -72,6 +72,8 @@
 
 [Quantum foam (version 35 - Petrol Cube: Ray Marching version) | Babylon.js Playground](https://playground.babylonjs.com/#FKES5A)
 
+[Quantum foam (version 36 - Isrofaces animated) | Babylon.js Playground](https://playground.babylonjs.com/#9GY8QG)
 
+[Quantum foam (version 37 - Random MetaBalls generator) | Babylon.js Playground](https://playground.babylonjs.com/#T5ZRPS#1)
 
 
