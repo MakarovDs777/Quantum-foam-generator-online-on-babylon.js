@@ -81,3 +81,5 @@
 [Quantum foam (version 39 - Backroom Level: Iron Trimmings) | Babylon.js Playground](https://playground.babylonjs.com/#L4BIJ0)
 
 [Quantum foam (version 40 - Pseudovoxels) | Babylon.js Playground](https://playground.babylonjs.com/#CWFAYB#3)
+
+[Quantum foam (version 41 - Final version) | Babylon.js Playground](https://playground.babylonjs.com/#LO1FWF)
