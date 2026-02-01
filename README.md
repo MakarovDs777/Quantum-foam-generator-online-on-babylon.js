@@ -82,4 +82,4 @@
 
 [Quantum foam (version 40 - Pseudovoxels) | Babylon.js Playground](https://playground.babylonjs.com/#CWFAYB#3)
 
-[Quantum foam (version 41 - Final version) | Babylon.js Playground](https://playground.babylonjs.com/#LO1FWF)
+[Quantum foam (version 41 - Final version) | Babylon.js Playground](https://playground.babylonjs.com/#LO1FWF#1)
