@@ -76,7 +76,7 @@
 
 [Quantum foam (version 37 - Random MetaBalls generator) | Babylon.js Playground](https://playground.babylonjs.com/#T5ZRPS#1)
 
-[Quantum foam (version 38 - Metaballs version) | Babylon.js Playground](https://playground.babylonjs.com/#24SAYQ)
+[Quantum foam (version 38 - Metaballs version) | Babylon.js Playground](https://playground.babylonjs.com/#24SAYQ#2)
 
 [Quantum foam (version 39 - Backroom Level: Iron Trimmings) | Babylon.js Playground](https://playground.babylonjs.com/#L4BIJ0)
 
