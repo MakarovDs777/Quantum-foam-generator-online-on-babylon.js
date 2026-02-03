@@ -84,4 +84,4 @@
 
 [Quantum foam (version 41 - Final version) | Babylon.js Playground](https://playground.babylonjs.com/#LO1FWF#1)
 
-[Quantum foam (version 42 - Endless procedural quantum foam generation XYZ version + Teleport table) | Babylon.js Playground](https://playground.babylonjs.com/#9OX0R6)
+[Quantum foam (version 42 - Endless procedural quantum foam generation XYZ version + Teleport table) | Babylon.js Playground](https://playground.babylonjs.com/#9OX0R6#1)
