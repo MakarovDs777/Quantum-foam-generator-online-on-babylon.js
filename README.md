@@ -87,3 +87,5 @@
 [Quantum foam (version 42 - Endless procedural quantum foam generation XYZ version + Teleport table) | Babylon.js Playground](https://playground.babylonjs.com/#9OX0R6#1)
 
 [Quantum foam (version 43 - Endless procedural quantum foam generation XZ version + Teleport table) | Babylon.js Playground](https://playground.babylonjs.com/#439IX3#1)
+
+[Quantum foam (version 44 - Foam from isuraces with smooth attenuation) | Babylon.js Playground](https://playground.babylonjs.com/#970586)
