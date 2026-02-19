@@ -91,3 +91,5 @@
 [Quantum foam (version 44 - Foam from isuraces with smooth attenuation) | Babylon.js Playground](https://playground.babylonjs.com/#970586)
 
 [Quantum foam (version 45 - Endless lava lamp XYZ version) | Babylon.js Playground](https://playground.babylonjs.com/#9AFYI3)
+
+[Quantum foam (version 46 - Endless lava lamp XYZ version + Teleport table) | Babylon.js Playground](https://playground.babylonjs.com/#L7NGC0)
