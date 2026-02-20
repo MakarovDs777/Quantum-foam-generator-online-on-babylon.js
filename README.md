@@ -95,3 +95,5 @@
 [Quantum foam (version 46 - Endless lava lamp XYZ version) | Babylon.js Playground](https://playground.babylonjs.com/#9AFYI3#1)
 
 [Quantum foam (version 47 - Endless lava lamp XYZ version + Teleport table) | Babylon.js Playground](https://playground.babylonjs.com/#L7NGC0#1)
+
+[Quantum foam (version 48 - Endless procedural ice caves XYZ version + Teleport table) | Babylon.js Playground](https://playground.babylonjs.com/#5SL7PG)
