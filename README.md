@@ -99,3 +99,5 @@
 [Quantum foam (version 48 - Endless procedural ice caves XYZ version + Teleport table) | Babylon.js Playground](https://playground.babylonjs.com/#5SL7PG)
 
 [Quantum foam (version 49 - Endless procedural quantum foam generation XYZ version + Teleport table + Quantum foam GUI) | Babylon.js Playground](https://playground.babylonjs.com/#CB26KU)
+
+[Quantum foam (version 50 - A box of emerging and disappearing balls) | Babylon.js Playground](https://playground.babylonjs.com/#0BXR0G)
