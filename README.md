@@ -101,3 +101,5 @@
 [Quantum foam (version 49 - Endless procedural quantum foam generation XYZ version + Teleport table + Quantum foam GUI) | Babylon.js Playground](https://playground.babylonjs.com/#CB26KU)
 
 [Quantum foam (version 50 - A box of emerging and disappearing balls) | Babylon.js Playground](https://playground.babylonjs.com/#0BXR0G)
+
+[Quantum foam (version 51 - A box with balls appearing and disappearing in a random time range) | Babylon.js Playground](https://playground.babylonjs.com/#8U66F2)
