@@ -105,3 +105,6 @@
 [Quantum foam (version 51 - A box with balls appearing and disappearing in a random time range) | Babylon.js Playground](https://playground.babylonjs.com/#8U66F2)
 
 [Quantum foam (version 52 - A box with balls appearing and disappearing in a random time range endless XYZ version) | Babylon.js Playground](https://playground.babylonjs.com/#Y19Y6X)
+
+[Quantum foam(version 53-A box with balls appearing and disappearing in a random time range endless XYZ version+Teleport) | Babylon.js Playground](https://playground.babylonjs.com/#62IJ5B)
+
