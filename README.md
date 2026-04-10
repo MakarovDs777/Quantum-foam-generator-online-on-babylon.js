@@ -111,3 +111,5 @@
 [Quantum foam (version 54 - Endless procedural ice caves XYZ version + Teleport table + Download OBJ button) | Babylon.js Playground](https://playground.babylonjs.com/#OI69UE#1)
 
 [Quantum foam (version 55 - Endless procedural strange bubbles XYZ version + Teleport table + Download OBJ button) | Babylon.js Playground](https://playground.babylonjs.com/#JGSUGG)
+
+[Quantum foam (version 56 - Endless procedural strange bubbles XYZ version+Teleport table+Download all OBJ chunks button) | Babylon.js Playground](https://playground.babylonjs.com/#L2CXAK)
