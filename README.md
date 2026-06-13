@@ -64,9 +64,9 @@
 
 [Quantum foam (version 31 - Quantum foam + Backrooms but OBJ in random places) | Babylon.js Playground](https://playground.babylonjs.com/#Y83ANH#2)
 
-[Quantum foam (version 32 - Chudik Compression) | Babylon.js Playground](https://playground.babylonjs.com/#58FC78#0)
+[Quantum foam (version 32 - Chudik Compression) | Babylon.js Playground](https://playground.babylonjs.com/#58FC78#1)
 
-[Quantum foam (version 33 - Chudik Compression + Spacing Compression) | Babylon.js Playground](https://playground.babylonjs.com/#ITHGMO#0)
+[Quantum foam (version 33 - Chudik Compression + Spacing Compression) | Babylon.js Playground](https://playground.babylonjs.com/#ITHGMO#1)
 
 [Quantum foam (version 34 - Geoids foam) | Babylon.js Playground](https://playground.babylonjs.com/#OWBK95#1)
 
