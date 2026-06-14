@@ -20,7 +20,7 @@
 
 [Quantum foam (version 9 - Quantum foam using isurfaces) | Babylon.js Playground](https://playground.babylonjs.com/#QHSSSR#0)
 
-[Quantum foam (version 10 - Quantum foam using isurfaces XYZ coordinates and seed) | Babylon.js Playground](https://playground.babylonjs.com/#0NA2TA#2)
+[Quantum foam (version 10 - Quantum foam using isurfaces XYZ coordinates and seed) | Babylon.js Playground](https://playground.babylonjs.com/#0NA2TA#3)
 
 [Beer foam | Babylon.js Playground](https://playground.babylonjs.com/#DG5BKM#0)
 
